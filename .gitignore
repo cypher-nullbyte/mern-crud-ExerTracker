@@ -1,0 +1,7 @@
+
+# dependencies
+/backend/node_modules
+.env
+/mern-exercise-tracker/node_modules
+package-lock.json
+.eslintcache
